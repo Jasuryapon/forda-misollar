@@ -28,13 +28,13 @@
 //sum = "";
 //}
 
-let n = 16;
-let counter = "";
+//let n = 16;
+//let counter = "";
 
-for (let i = 1; i <= n; i++) {
-  if (n % 1 == 0) {
-    counter += `${i} `;
-  }
-}
+//for (let i = 1; i <= n; i++) {
+//if (n % 1 == 0) {
+//counter += `${i} `;
+//}
+//}
 
-console.log(counter.trimEnd());
+//console.log(counter.trimEnd());
